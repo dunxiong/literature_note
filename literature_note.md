@@ -1,6 +1,17 @@
 
 ## extended depth of field ##
 
+3. Shree Nayar, [Diffusion Coded Photography for Extended Depth of Field](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Cossairt_SIGGRAPH10.pdf)
+
+   the diffusion mask can be looked as a phase mask, it pu on the pupil of lens. generate blur of orginal psf.
+   It is very similar with the design of achromatic lens by alen, we need to accoding the psf to generate a psf with smallest depth varience and maxmium MTF
+   
+   "To implement the diffuser defined in Equation 14, we follow the procedure in [Sales 2003], which simply implements a diffuser
+surface as a sequence of quadratic elements whose diameter and sag is drawn from a random distribution. The scatter function is designed to be roughly Gaussian with 0.5mm variance (corresponding to w = 1mm in Equation 16) as shown in Figure 11(c). To create
+a radially symmetric diffuser, we create a 1D random profile and then apply a polar transformation to create the final 2D surface (see
+Figures 11(a) and 11(b)). The maximum height of the surface is 3µm. The diffuser was fabricated using a laser machining technology
+which has a minimum spot size of about 10µm. To ensure that each quadratic element was fabricated with high accuracy, the minimum diameter of a single element was chosen to be 200µm, resulting in a diffuser with 42 different annular sections. T"
+
 2. Shree Nayar, [Spectral Focal Sweep: Extended Depth of Field from Chromatic Aberrations](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5585101)
    
     use the chromatic of lens to sweep the focus of the lens. at different object distance, use this new lens, one can get a 
