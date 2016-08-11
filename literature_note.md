@@ -1,6 +1,14 @@
 
 ## extended depth of field ##
 
+4. Chenguang Ma, [High-rank Coded Aperture Projection for Extended Depth of Field](http://web.media.mit.edu/~gordonw/research/HR3DProjector_ICCP2013.pdf)
+
+  proposed a projected light field, and use a mattix to calicarate it, two mask
+  
+  "every pixel of the image is an accumulation of light rays from different directions and we can view the projected
+imagery as an integration of the emitted light field. In other words, the projection screen works as a geometrydependent
+2D down-projection of the 4D light field, which can be further expressed as matrix multiplication."
+
 3. Shree Nayar, [Diffusion Coded Photography for Extended Depth of Field](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Cossairt_SIGGRAPH10.pdf)
 
    the diffusion mask can be looked as a phase mask, it pu on the pupil of lens. generate blur of orginal psf.
