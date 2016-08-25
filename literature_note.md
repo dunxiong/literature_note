@@ -3,7 +3,12 @@
 6. Eyal Ben-Eliezer,[An optimal binary amplitude-phase mask for hybrid
 imaging systems that exhibit high resolution and
 extended depth of field](https://www.osapublishing.org/DirectPDFAccess/8CB56C81-E73B-B8D2-1B93CCDA54DD1B04_175057/oe-16-25-20540.pdf?da=1&id=175057&seq=0&mobile=no)
+
 given a method to optimazate the mask for extend DOF
+
+you can also find a optimizaion method from[Pupil coding masks for imaging polychromatic
+scenes with high resolution and extended depth
+of field ](https://www.osapublishing.org/DirectPDFAccess/8C9A88EF-AEE4-89C0-C34A01907A102310_203692/oe-18-15-15569.pdf?da=1&id=203692&seq=0&mobile=no)
 
 5. Eyal Ben-Eliezer,[All-optical extended depth of field
 imaging system](http://iopscience.iop.org/article/10.1088/1464-4258/5/5/359/pdf)
