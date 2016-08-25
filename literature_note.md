@@ -1,5 +1,9 @@
 
 ## extended depth of field ##
+5. Eyal Ben-Eliezer,[All-optical extended depth of field
+imaging system](http://iopscience.iop.org/article/10.1088/1464-4258/5/5/359/pdf)
+
+using mutilplexed Fresnel lenses to extend the depth of field. it is very like focus swap, the aperture is seperate to a lot of different focus fresnel lens
 
 4. Chenguang Ma, [High-rank Coded Aperture Projection for Extended Depth of Field](http://web.media.mit.edu/~gordonw/research/HR3DProjector_ICCP2013.pdf)
 
