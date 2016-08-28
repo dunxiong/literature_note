@@ -1,3 +1,7 @@
+## diffractive filter
+1. this paper given a diffractive filter, the transparance of it is much larger than byner filter. it first calibrate the psf of different wavelength, and than reconstruction spectral image from the obtain image with the calibrate psf
+[Ultra-high-sensitivity color imaging via a transparent diffractive-filter array and computational optics](https://www.osapublishing.org/DirectPDFAccess/8DF2968B-B5CC-7D68-4197C6786C961E2B_332087/optica-2-11-933.pdf?da=1&id=332087&seq=0&mobile=no)
+
 
 ## extended depth of field ##
 6. Eyal Ben-Eliezer,[An optimal binary amplitude-phase mask for hybrid
