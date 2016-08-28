@@ -4,6 +4,8 @@
 
 ## diffractive element optimization
 1. a directly binary search method for the optmization of multi-wavelength diffractive element, please notify the equaltion of diffraction efficience.
+2. [Diffractive fan-out elements for wavelengthmultiplexing
+subdiffraction-limit spot generation in three dimensions](https://www.osapublishing.org/view_article.cfm?gotourl=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2FDirectPDFAccess%2F2D7A918C-9EB6-6A9E-B296054A0173D67F_348330%2Fao-55-23-6371%2Epdf%3Fda%3D1%26id%3D348330%26seq%3D0%26mobile%3Dno&org=King%20Abdullah%20University%20of%20Science%20and%20Technology%20)
 
 [Design and analysis of multi-wavelength diffractive optics](https://www.osapublishing.org/DirectPDFAccess/28A19E07-B7CF-E988-9B4EBB2EF2675417_226747/oe-20-3-2814.pdf?da=1&id=226747&seq=0&mobile=no)
 
