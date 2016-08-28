@@ -1,3 +1,9 @@
+## diffractive element optimization
+1. a directly binary search method for the optmization of multi-wavelength diffractive element, please notify the equaltion of diffraction efficience.
+
+[Design and analysis of multi-wavelength diffractive optics](https://www.osapublishing.org/DirectPDFAccess/28A19E07-B7CF-E988-9B4EBB2EF2675417_226747/oe-20-3-2814.pdf?da=1&id=226747&seq=0&mobile=no)
+
+
 ## diffractive filter
 1. this paper given a diffractive filter, the transparance of it is much larger than byner filter. it first calibrate the psf of different wavelength, and than reconstruction spectral image from the obtain image with the calibrate psf
 [Ultra-high-sensitivity color imaging via a transparent diffractive-filter array and computational optics](https://www.osapublishing.org/DirectPDFAccess/8DF2968B-B5CC-7D68-4197C6786C961E2B_332087/optica-2-11-933.pdf?da=1&id=332087&seq=0&mobile=no)
