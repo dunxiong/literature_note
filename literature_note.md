@@ -1,3 +1,7 @@
+## multi-focus DOE
+
+[Fast multicolor 3D imaging using aberration-corrected multifocus microscopy](http://www.nature.com/nmeth/journal/v10/n1/pdf/nmeth.2277.pdf)
+
 ## diffractive element optimization
 1. a directly binary search method for the optmization of multi-wavelength diffractive element, please notify the equaltion of diffraction efficience.
 
