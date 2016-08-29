@@ -1,6 +1,8 @@
 ## multi-focus DOE
 
 1. [Fast multicolor 3D imaging using aberration-corrected multifocus microscopy](http://www.nature.com/nmeth/journal/v10/n1/pdf/nmeth.2277.pdf)
+2. optimization of different order intensity to the same,using simulated annealing algorithm [Design and fabrication of a diffractive beam splitter for dual-wavelength and concurrent irradiation of process points
+](https://www.osapublishing.org/DirectPDFAccess/2FB05EFC-CA34-A475-5236BC1B7B4BFD98_345388/oe-24-14-16111.pdf?da=1&id=345388&seq=0&mobile=no)
 
 ## diffractive element optimization
 1. a directly binary search method for the optmization of multi-wavelength diffractive element, please notify the equaltion of diffraction efficience.[Design and analysis of multi-wavelength diffractive optics](https://www.osapublishing.org/DirectPDFAccess/28A19E07-B7CF-E988-9B4EBB2EF2675417_226747/oe-20-3-2814.pdf?da=1&id=226747&seq=0&mobile=no)
