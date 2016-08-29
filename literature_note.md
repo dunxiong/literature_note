@@ -1,6 +1,6 @@
 ## multi-focus DOE
 
-1. [Fast multicolor 3D imaging using aberration-corrected multifocus microscopy](http://www.nature.com/nmeth/journal/v10/n1/pdf/nmeth.2277.pdf)
+1. using distort grating, a grating composed a normal grating and a lens phase.two grating can be used to compensation chormatic.[Fast multicolor 3D imaging using aberration-corrected multifocus microscopy](http://www.nature.com/nmeth/journal/v10/n1/pdf/nmeth.2277.pdf)
 2. optimization of different order intensity to the same,using simulated annealing algorithm [Design and fabrication of a diffractive beam splitter for dual-wavelength and concurrent irradiation of process points
 ](https://www.osapublishing.org/DirectPDFAccess/2FB05EFC-CA34-A475-5236BC1B7B4BFD98_345388/oe-24-14-16111.pdf?da=1&id=345388&seq=0&mobile=no)
 
