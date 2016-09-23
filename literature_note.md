@@ -1,3 +1,12 @@
+## TIE and phase imaging
+1. [Phase retrieval using spatially modulated illumination](http://www.zuochao.org/uploads/1/1/0/7/11076000/2014_ol_speckle_tie.pdf)
+2. [Transport of intensity phase retrieval and computational imaging for partially coherent fields: The phase space perspective](http://www.sciencedirect.com/science/article/pii/S0143816615000457). 
+  .the relationship between phase and optical field. 
+[zuo chao's lab](http://www.zuochao.org/transport-of-intensity-tie-phase-imaging.html)
+
+
+
+
 ## Lensless imaging
 1. Lensless imaging using speckle correlation. [Non-invasive single-shot imaging through
 scattering layers and around corners via
