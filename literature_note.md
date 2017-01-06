@@ -1,3 +1,9 @@
+
+
+## holographic 3D particle tracking  & digital holographic microscopy
+
+[Recent advances in holographic 3D particle tracking](https://www.osapublishing.org/aop/abstract.cfm?utm_medium=Email&utm_source=Collection&utm_campaign=AOPUnderpromotedArticles&utm_term=2016&utm_content=DECEMBER&uri=aop-7-4-713)
+
 ## compressed ultrafast photography
 
 ## computal gost imaging
@@ -10,6 +16,7 @@
   .the relationship between phase and optical field. 
 [zuo chao's lab](http://www.zuochao.org/transport-of-intensity-tie-phase-imaging.html)
 
+3. [Single-shot ptychography](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-1-9&origin=search#articleCitations)
 
 
 
