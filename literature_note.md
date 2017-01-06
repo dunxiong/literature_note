@@ -50,6 +50,8 @@ subdiffraction-limit spot generation in three dimensions](https://www.osapublish
 
 
 ## extended depth of field ##
+7. [Tuning field depth at high resolution by pupil engineering](https://www.osapublishing.org/aop/abstract.cfm?utm_medium=Email&utm_source=Collection&utm_campaign=AOPUnderpromotedArticles&utm_term=2016&utm_content=DECEMBER&uri=aop-7-4-814)
+
 6. Eyal Ben-Eliezer,[An optimal binary amplitude-phase mask for hybrid
 imaging systems that exhibit high resolution and
 extended depth of field](https://www.osapublishing.org/DirectPDFAccess/8CB56C81-E73B-B8D2-1B93CCDA54DD1B04_175057/oe-16-25-20540.pdf?da=1&id=175057&seq=0&mobile=no)
