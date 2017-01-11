@@ -18,8 +18,8 @@
 [zuo chao's lab](http://www.zuochao.org/transport-of-intensity-tie-phase-imaging.html)
 
 3. [Single-shot ptychography](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-1-9&origin=search#articleCitations)
-
-
+4. [Video stabilization in atmosphere turbulent conditions based on the Laplacian-Riesz pyramid](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-24-28092)
+Riesz transform   Laplacian pyramid 
 
 ## Lensless imaging
 1. Lensless imaging using speckle correlation. [Non-invasive single-shot imaging through
