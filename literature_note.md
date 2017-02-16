@@ -20,6 +20,7 @@
 3. [Single-shot ptychography](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-3-1-9&origin=search#articleCitations)
 4. [Video stabilization in atmosphere turbulent conditions based on the Laplacian-Riesz pyramid](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-24-28092)
 Riesz transform   Laplacian pyramid 
+
 5.[Improved recovery guarantees for phase retrieval from coded diffraction patterns](http://www.sciencedirect.com/science/article/pii/S1063520315000986)
 
 ## Lensless imaging
