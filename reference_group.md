@@ -20,3 +20,5 @@
 9.[Ramesh Raskar MIT Camera Culture group](http://cameraculture.media.mit.edu/)
 
 10.[Zhiwei Xiong USTC Visual Information Discovery And Recovery group](http://staff.ustc.edu.cn/~zwxiong/)
+
+11.[wolfgang heidrich, KAUST . imaging group](https://vccimaging.org/)
