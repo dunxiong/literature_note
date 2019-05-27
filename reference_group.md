@@ -22,3 +22,5 @@
 10.[Zhiwei Xiong USTC Visual Information Discovery And Recovery group](http://staff.ustc.edu.cn/~zwxiong/)
 
 11.[wolfgang heidrich, KAUST . imaging group](https://vccimaging.org/)
+
+12.[ Xun Cao Lab for Computational Imaging Technology and Engineering (CITE)](http://cite.nju.edu.cn/)
