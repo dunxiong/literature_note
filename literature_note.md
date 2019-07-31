@@ -1,3 +1,9 @@
+## computional imaging video
+[Computational imaging: beyond the limits imposed by lenses](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10222/2266385/Computational-imaging--beyond-the-limits-imposed-by-lenses-Conference/10.1117/12.2266385.full?SSO=1)
+
+
+
+
 ## microscopy
 [A Simple low-cost device enables four epi-illumination techniques on standard light microscopes](https://www.nature.com/articles/srep20729)
 
