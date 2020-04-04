@@ -1,4 +1,4 @@
-##generate pdf from PNG figure##
+#generate pdf from PNG figure#
 
 \documentclass{standalone}
 \usepackage{graphicx}
